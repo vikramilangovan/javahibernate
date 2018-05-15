@@ -11,7 +11,7 @@ There are many advantages of Hibernate Framework. They are as follows:
 Hibernate framework is opensource under the LGPL license and lightweight.
 
 ## 2) Fast performance:
-		The performance of hibernate framework is fast because cache is internally used in hibernate framework. There are two types of cache in hibernate framework first level cache and second level cache. First level cache is enabled bydefault.
+The performance of hibernate framework is fast because cache is internally used in hibernate framework. There are two types of cache in hibernate framework first level cache and second level cache. First level cache is enabled bydefault.
 
 ## 3) Database Independent query:
 HQL (Hibernate Query Language) is the object-oriented version of SQL. It generates the database independent queries. So you don't need to write database specific queries. Before Hibernate, If database is changed for the project, we need to change the SQL query as well that leads to the maintenance problem.
